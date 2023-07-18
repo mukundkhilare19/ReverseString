@@ -8,7 +8,7 @@ class ReverseString
     String str1, str2 = "";
     Scanner sc = new Scanner(System.in);
 
-    System.out.println("Enter a string to reverse");
+    System.out.println("Enter a string ");
     str1 = sc.nextLine();
 
     int length = str1.length();
